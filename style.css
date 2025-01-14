@@ -23,12 +23,7 @@ body {
   min-height: 100dvh;
   color: var(--space-cadet);
   background: var(--dark-cyan);
-  background: linear-gradient(
-    135deg,
-    var(--sunglow),
-    var(--dark-cyan),
-    var(--paynes-gray)
-  );
+  background: white;
 }
 
 h1 {
