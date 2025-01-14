@@ -41,6 +41,11 @@ button {
   border: none;
 }
 
+/* Hide footer elements */
+footer, .footer, .footer-wrapper {
+  display: none !important;
+}
+
 .testimonial-slider {
   max-width: 800px;
   width: 90%;
